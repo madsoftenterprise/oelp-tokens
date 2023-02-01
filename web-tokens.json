@@ -149,7 +149,8 @@
     "textDecoration": {
       "none": {
         "value": "none",
-        "type": "textDecoration"
+        "type": "textDecoration",
+        "description": "main"
       }
     },
     "fontWeights": {
